@@ -7,7 +7,7 @@ _A cutting-edge, interactive 3D developer portfolio that showcases your projects
 ![Vertex Vista Demo](https://www.your-image-url.com/your-screenshot.jpg)
 
 <p align="center">
-  <a href="https://your-live-demo-url.com" target="_blank">
+  <a href="https://vertex-vista.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge" alt="Live Demo">
   </a>
   <a href="https://github.com/yourusername/vertex-vista/issues" target="_blank">
@@ -89,7 +89,7 @@ vertex-vista/
 │   ├── app/                 # Next.js app directory
 │   ├── components/          # Reusable React components
 │   │   ├── ui/              # Shadcn/ui components
-│   │   ├── 3d/              # Three.js components
+│   │   └── 3d/              # Three.js components
 │   └── public/              # Static assets (3D models, textures)
 │       └── models/          # Your 3D models (.glb, .gltf)
 └── docs/                    # Additional documentation
