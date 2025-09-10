@@ -8,11 +8,17 @@ Show Image
 🎯 Core Features
 
 🎨 3D Model Showcase — Display interactive 3D models of your projects with smooth animations and detailed visualizations
+
 🌍 Interactive Environment — Immersive 3D environment that serves as your portfolio's backdrop, offering users an engaging tour experience
+
 📋 Project Details Overlay — Dynamic overlays displaying project titles, descriptions, and links positioned contextually over 3D models
+
 🤖 AI-Powered Content Creation — Automatic 3D model descriptions generated using Gemini AI, saving time and ensuring consistent, professional content
+
 🎨 Customizable Themes — User-customizable visual themes including colors, lighting, and atmospheric effects
+
 🎮 Navigation Controls — Intuitive controls for exploring the 3D environment with smooth camera movements and model interactions
+
 📞 Contact Form Integration — Seamless contact form integration for potential clients and collaborators
 
 🎨 Design System
@@ -36,8 +42,11 @@ Genkit: Google's open-source framework providing unified AI model access and str
 💻 Frontend Development
 
 TypeScript: Type-safe JavaScript development for robust, maintainable code
+
 Next.js 15: Modern React framework with server-side rendering and advanced optimization
+
 Tailwind CSS: Utility-first CSS framework for rapid, consistent styling
+
 Three.js: Powerful 3D graphics library for WebGL-based 3D rendering
 
 🎨 UI Components
