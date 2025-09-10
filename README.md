@@ -4,7 +4,6 @@ _A cutting-edge, interactive 3D developer portfolio that showcases your projects
 
 <br/>
 
-![Vertex Vista Demo](https://www.your-image-url.com/your-screenshot.jpg)
 
 <p align="center">
   <a href="https://vertex-vista.vercel.app/" target="_blank">
